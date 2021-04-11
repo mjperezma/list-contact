@@ -1,0 +1,29 @@
+[
+    {
+        "name": "María José",
+        "surname": "Pérez Maeso",
+        "description": "Frontend Developer",
+        "sex": "Mujer",
+        "email": "mariajose1907@gmail.com",
+        "telephone": "666777888",
+        "company": "Novapago"
+    },
+    {
+        "name": "Francisco Miguel",
+        "surname": "Villar Salvador",
+        "description": "Frontend Developer",
+        "sex": "Hombre",
+        "email": "franvs@hotmail.com",
+        "telephone": "666112233",
+        "company": "Beezy"
+    },
+    {
+        "name": "Federico",
+        "surname": "Caballero Sánchez",
+        "description": "Compañero de trabajo",
+        "sex": "Hombre",
+        "email": "fcs@gmail.es",
+        "telephone": "666123123",
+        "company": "Indra"
+    }
+]
